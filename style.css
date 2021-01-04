@@ -1,6 +1,7 @@
 body{
     font-family: 'Righteous',
     cursive;
+    margin: 0;
 }
 h1{
     color: rgb(75, 24, 24);
@@ -18,3 +19,60 @@ h1{
     width: 100%;
 
 }
+.top-banner {
+   
+    background-image: url("img/top-banner.png");
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+
+}
+.t-banner{
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.last-color{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 70%;
+    background-color: white;
+
+}
+
+.lastl-try{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+#full {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+
+    }
+    #fullin{
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg, blue, cyan);
+        border-image-slice: 1;
+    }
+    footer p{
+        text-align: center;
+    }
+
+
