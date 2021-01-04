@@ -51,6 +51,8 @@ section{
     border-radius: 5px;
     height: 70%;
     background-color: white;
+    text-justify: center;
+    
 
 }
 
@@ -58,6 +60,7 @@ section{
     background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    text-justify: center;
 
 }
 #full {
